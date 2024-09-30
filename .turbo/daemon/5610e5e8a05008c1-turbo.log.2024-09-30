@@ -2,3 +2,4 @@
 2024-09-30T11:33:51.789611Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
 2024-09-30T11:34:57.700564Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
 2024-09-30T11:35:24.220056Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
+2024-09-30T12:29:49.630530Z  WARN turborepo_filewatch: encountered error watching filesystem enumerating recursive watch: IO error for operation on /home/sora32127/code/monochromatic-generator/node_modules/.pnpm/acorn@8.12.1/node_modules/acorn_tmp_112800/dist: No such file or directory (os error 2)
